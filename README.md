@@ -1,4 +1,4 @@
-# E-Commerce System – Internship Task (Fawry)
+# E-Commerce System – Internship Task 
 
 ## Overview
 
